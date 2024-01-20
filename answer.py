@@ -7,8 +7,8 @@ def hello_world():
 
     # Write a comment; comments are very useful to other programmers.
     #the below statement prints helloworld
-    # Write a Python statement to print Hello, World!
-       print("Hello, World!")
+    # Write a Python statement to print Hello, World
+    print("Hello, World!")
 def add(a,b):
 
     # Write simple code to add variable a and b
